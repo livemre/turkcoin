@@ -1,2 +1,0 @@
-# turkcoin
-Turkcoin Blockchain Project
